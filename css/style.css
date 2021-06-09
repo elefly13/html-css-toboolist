@@ -7,8 +7,6 @@
 }
 body{
     background-color: rgb(224, 246, 247);
-
-   
 }
 
 /* stili header  */
@@ -40,8 +38,6 @@ div.contenitore-head{
     width: 70%;
     margin: 0 auto;
     
-
-
 }
 #contenitore-bottoni{
     width: 100%;
@@ -61,8 +57,6 @@ div.contenitore-head{
     border-radius: 5px;
     height: 30px;
     
-
-
 }
 #bottone-bianco{
     vertical-align: middle;
@@ -70,7 +64,6 @@ div.contenitore-head{
     margin-left: 10px;
     padding: 2px 8px;
     color: gray;
-   
     border-radius: 5px;
     height: 30px;
 
@@ -91,9 +84,9 @@ section{
 .titolo-sezione{
     margin-bottom: 10px;
     font-weight: 600;
-
-
+    
 }
+/* icone  */
 .spunta{
     border: 1px solid rgb(38, 171, 244);
     border-radius: 50%;
@@ -107,15 +100,34 @@ section{
     background-color: white;
     padding: 3px 7px;
     color: red;
-
 }
+/* /icone  */
 
 .argomento{
     margin-left: 10px;
 }
-#pulsante{
-    border-radius: 10px;
+.bottone-main{
     margin-left: 10px;
-    
-
+    padding: 2px 8px;
+    color: white;
+    border-radius: 10px;
+   
+}
+#pulsante-blu{
+    background-color: rgb(38, 171, 244);
+}
+#pulsante-viola{
+    background-color: rgb(169, 91, 230);
+}
+#pulsante-verde{
+    background-color: rgb(59, 199, 171);
+}
+#pulsante-arancio{
+    background-color: rgb(252, 154, 10);
+}
+#pulsante-rosa{
+    background-color: rgb(232, 70, 159);
+}
+#pulsante-lime{
+    background-color: rgb(165, 210, 15);
 }
