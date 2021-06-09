@@ -51,7 +51,7 @@ div.contenitore-head{
     border-bottom: 2px rgb(224, 246, 247) solid;
  
 }
-#bottone-blu{
+.bottone-blu{
 
     vertical-align: middle;
     background-color: rgb(38, 171, 244);
@@ -78,4 +78,30 @@ div.contenitore-head{
 .row{
     display: inline;
     vertical-align: middle;
+}
+section{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+.titolo-sezione{
+    margin-bottom: 10px;
+    font-weight: 600;
+
+
+}
+.spunta{
+    border: 1px solid rgb(38, 171, 244);
+    border-radius: 50%;
+    background-color: white;
+    padding: 3px 5px;
+    color: rgb(38, 171, 244);
+}
+.argomento{
+    margin-left: 10px;
+}
+#pulsante{
+    border-radius: 10px;
+    margin-left: 10px;
 }
