@@ -75,6 +75,9 @@ div.contenitore-head{
     height: 30px;
 
 }
+.spazio-righe{
+    margin-bottom: 10px;
+}
 .row{
     display: inline;
     vertical-align: middle;
@@ -98,10 +101,21 @@ section{
     padding: 3px 5px;
     color: rgb(38, 171, 244);
 }
+.croce{
+    border: 1px solid red;
+    border-radius: 50%;
+    background-color: white;
+    padding: 3px 7px;
+    color: red;
+
+}
+
 .argomento{
     margin-left: 10px;
 }
 #pulsante{
     border-radius: 10px;
     margin-left: 10px;
+    
+
 }
